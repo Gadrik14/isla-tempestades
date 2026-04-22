@@ -1,5 +1,5 @@
 {
-  "_token":"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",
+  
   "id": "isla-tempestades",
   "title": "D&D 5e: Los Dragones de la Isla de las Tempestades",
   "description": "Campaña completa con escenas, actores y diarios de la aventura de inicio.",
@@ -11,7 +11,8 @@
   },
   "authors": [
     {
-      "name": "Adrián Guirao Cortés"
+      "name": "Adrián Guirao Cortés",
+      "token":"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"
     }
   ],
   "relationships": {
