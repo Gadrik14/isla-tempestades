@@ -67,13 +67,6 @@
       "path": "packs/razas",
       "type": "Item",
       "system": "dnd5e"
-    },
-    {
-      "name": "personajes-isla",
-      "label": "Personajes (PJ y PNJ)",
-      "path": "packs/actores",
-      "type": "Actor",
-      "system": "dnd5e"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Gadrik14/isla-tempestades/main/module.json",
