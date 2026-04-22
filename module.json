@@ -56,6 +56,6 @@
       "system": "dnd5e"
     }
   ],
-  "manifest": "https://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@raw.githubusercontent.com/Gadrik14/isla-tempestades/main/module.json",
-  "download": "https://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@github.com/Gadrik14/isla-tempestades/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/Gadrik14/isla-tempestades/main/module.json?token=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",
+  "download": "https://api.github.com/repos/Gadrik14/isla-tempestades/zipball/main?access_token=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"
 }
