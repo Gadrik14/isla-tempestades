@@ -3,7 +3,7 @@
   "id": "isla-tempestades",
   "title": "D&D 5e: Los Dragones de la Isla de las Tempestades",
   "description": "Campaña completa con escenas, actores y diarios de la aventura de inicio.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "library": false,
   "compatibility": {
     "minimum": "13",
