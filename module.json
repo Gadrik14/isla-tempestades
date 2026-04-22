@@ -1,0 +1,59 @@
+{
+  "id": "isla-tempestades",
+  "title": "D&D 5e: Los Dragones de la Isla de las Tempestades",
+  "description": "Campaña completa con escenas, actores y diarios de la aventura de inicio.",
+  "version": "1.0.0",
+  "library": false,
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Adrián Guirao Cortés"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "escenas-isla",
+      "label": "Escenas (Mapas y Muros)",
+      "path": "packs/escenas",
+      "type": "Scene",
+      "system": "dnd5e"
+    },
+    {
+      "name": "diario-isla",
+      "label": "Diario (Documentación)",
+      "path": "packs/diario",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "personajes-isla",
+      "label": "Personajes (PJ y PNJ)",
+      "path": "packs/actores",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "items-isla",
+      "label": "Items (Equipo y Objetos)",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/isla-tempestades/module.json",
+  "download": "https://github.com/TU_USUARIO/TU_REPO/archive/refs/heads/main.zip"
+}
